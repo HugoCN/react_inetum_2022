@@ -1,7 +1,7 @@
 import { registerRootComponent } from 'expo';
 
 //import App from './App';
-import App from './Listing-4.16-MonospacedFonts/App';
+import App from './Listing-4.17-ProfileCard-Step5-FontStyles/App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in Expo Go or in a native build,
