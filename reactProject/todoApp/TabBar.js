@@ -6,17 +6,17 @@ const TabBar = ({ setType, type }) => (
   <View style={styles.container}>
     <TabBarItem
       type={type}
-      title='All'
+      title='Todos'
       setType={() => setType('All')} />
     <TabBarItem
       type={type}
       border
-      title='Active'
+      title='Activo'
       setType={() => setType('Active')} />
     <TabBarItem
       type={type}
       border
-      title='Complete'
+      title='Completado'
       setType={() => setType('Complete')} />
   </View>
 )

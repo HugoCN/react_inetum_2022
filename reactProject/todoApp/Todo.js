@@ -8,8 +8,8 @@ const Todo = ({ todo, toggleComplete, deleteTodo }) => (
       {todo.title}
     </Text>
     <View style={styles.buttons}>
-      <TodoButton name='Done' complete={todo.complete} onPress={() => toggleComplete(todo.todoIndex)} />
-      <TodoButton name='Delete' onPress={() => deleteTodo(todo.todoIndex)} />
+      <TodoButton name='Hecho' complete={todo.complete} onPress={() => toggleComplete(todo.todoIndex)} />
+      <TodoButton name='Borrar' onPress={() => deleteTodo(todo.todoIndex)} />
     </View>
   </View>
 )
