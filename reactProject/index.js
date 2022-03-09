@@ -1,7 +1,7 @@
 import { registerRootComponent } from 'expo';
 
 //import App from './App';
-import App from './Listing-5.8-AlignItems/App';
+import App from './Listing-5.9-AlignSelf/App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in Expo Go or in a native build,
