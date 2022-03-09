@@ -1,7 +1,7 @@
 import { registerRootComponent } from 'expo';
 
 //import App from './App';
-import App from './Listing-5.1-ProfileCard-Step7-DropShadows/App';
+import App from './Listing-5.2-Scale/App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in Expo Go or in a native build,
