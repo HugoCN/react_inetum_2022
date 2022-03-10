@@ -1,7 +1,7 @@
 import { registerRootComponent } from 'expo';
 
 //import App from './App';
-import App from './Listing-5.10-Flexwrap/App';
+import App from './Listing-7.1-UsingAnimatedandUpdatingtheMarginTopProperty/AnimatedTiming';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in Expo Go or in a native build,
