@@ -1,7 +1,7 @@
 import { registerRootComponent } from 'expo';
 
 //import App from './App';
-import App from './Listing-7.4-Creating-an-animated-welcome-screen/AnimatedParallel';
+import App from './Listing-7.5-Creating-a-sequence-of-animations/AnimatedSequence';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in Expo Go or in a native build,
